@@ -1,0 +1,17 @@
+
+
+/*# sourceMappingURL=style.css.map */
+
+.logo{
+    width: 70px;
+    height: 40px;
+}
+.container-fluid{
+    height: 60px;
+    background-color: #630fc4;
+}
+.hero{
+    background-color: #630fc4;
+    height: 10rem;
+    
+}
